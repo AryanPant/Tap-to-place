@@ -7,7 +7,7 @@ In this project, the plane is automatically detected in Argumented Reality and  
 
 [**_Click to view the scripts folder_**](https://github.com/AryanPant/Tap-to-place/tree/main/Assets/Scripts)
 
-[**_Click to download APK_**](https://github.com/AryanPant/Tap-to-place/raw/main/Tap-to-place.apk)
+[**_Click to download APK_**](https://github.com/AryanPant/Tap-to-place/raw/main/Tap-to-place-V2.apk)
 
 ### Screenshots
 
@@ -16,6 +16,3 @@ In this project, the plane is automatically detected in Argumented Reality and  
 ![image](2.jpg)
 
 ![image](1.jpg)
-
-
-
