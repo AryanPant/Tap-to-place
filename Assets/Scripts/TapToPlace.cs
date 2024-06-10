@@ -12,6 +12,9 @@ public class TapToPlace : MonoBehaviour
     private Vector2 touchPosition;   //position in phone that is touched
     public ARRaycastManager _arRaycastManager;   //cast the ray towards detected plane and tells where it hits 
     private List<ARRaycastHit> hits = new List<ARRaycastHit>(); //contain the hits 
+    
+    void Awake(){
+        _arRaycastManager = GetComponent<ARRaycastManager>();
 
     void Update()
     {
